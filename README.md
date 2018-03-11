@@ -1,14 +1,14 @@
-💎 EOS Tracker
+💎 YHSC Tracker
 ========================
 
-EOS Tracker is a Frontend based on Angular4 that connects to [EOS Tracker API](https://github.com/EOSEssentials/EOSTracker-API).
+YHSC Tracker is a Frontend based on Angular4 that connects to [YHSC Tracker API](https://github.com/EOSEssentials/YHSCTracker-API).
 
 📌 Getting Started
 ------------
 
 ```bash
-$ git clone git@github.com:EOSEssentials/EOSTracker.git
-$ cd EOSTracker
+$ git clone git@github.com:YHSCEssentials/YHSCTracker.git
+$ cd YHSCTracker
 $ npm install
 ```
 
